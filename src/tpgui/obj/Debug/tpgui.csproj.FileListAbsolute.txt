@@ -1,0 +1,13 @@
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\bin\Debug\tp.exe
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\bin\Debug\tp.pdb
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskList.resources
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskEdit.resources
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskProcess.resources
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskConfirm.resources
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormLinkFile.resources
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.Properties.Resources.resources
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\tpgui.csproj.GenerateResource.Cache
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\tp.exe
+C:\Users\94068\Documents\Tencent Files\940682996\FileRecv\task-process-master\task-process-master\src\tpgui\obj\Debug\tp.pdb
+C:\Users\94068\Desktop\xsx\task-process-master\src\tpgui\obj\Debug\tp.exe
+C:\Users\94068\Desktop\xsx\task-process-master\src\tpgui\obj\Debug\tp.pdb
